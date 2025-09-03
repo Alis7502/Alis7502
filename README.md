@@ -26,8 +26,8 @@ I am a dedicated **Control Engineering student** with a strong foundation in **M
 ---
 
 ## 🚀 Current Projects
-- **Fault Detection System**: Developed a machine learning model using Python and TensorFlow to detect anomalies in industrial systems, improving diagnostic accuracy. *[View Repository](#)*.
-- **Data Visualization Dashboard**: Built interactive visualizations with Pandas and Matplotlib to analyze system performance metrics. *[View Repository](#)*.
+- **Fault Detection System**: Developed a machine learning and deep learning modeles to detect anomalies in industrial systems, improving diagnostic accuracy.
+- **Data Visualization Dashboard**: Built interactive visualizations with Pandas and Matplotlib to analyze system performance metrics.
 
 ---
 
