@@ -31,13 +31,6 @@ I am a dedicated **Control Engineering student** with a strong foundation in **M
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=light&hide_border=true" alt="Top Languages" width="300"/>
-</div>
-
----
-
 ## 📫 Connect with Me
 - **LinkedIn**: [Ali Sadeghi](https://www.linkedin.com/in/alisadeghi7502/)
 - **Email**: [alisadeghi7502@gmail.com]
