@@ -41,7 +41,7 @@ I am a dedicated **Control Engineering student** with a strong foundation in **M
 
 ## 📫 Connect with Me
 - **LinkedIn**: [Ali Sadeghi](https://www.linkedin.com/in/alisadeghi7502/)
-- **Email**: [your.email@example.com]
+- **Email**: [alisadeghi7502@gmail.com]
 
 ---
 
