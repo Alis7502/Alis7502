@@ -73,19 +73,3 @@ Built interactive visualizations with Pandas and Matplotlib to analyze system pe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Sadeghi-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alisadeghi)
 [![Email](https://img.shields.io/badge/Email-alisadeghi7502@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisadeghi7502@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ali--sadeghi-181717?style=for-the-badge&logo=github)](https://github.com/alisadeghi)
-
----
-
-## 🌟 Personal Interests
-
-Beyond coding, I find inspiration in the narrative depth of films and the strategic complexity of computer games, which fuel my creative approach to solving technical challenges.
-
----
-
-<div align="center">
-
-### ✨ Thank you for visiting my profile! 
-I'm excited to collaborate on innovative projects in AI and control engineering. 
-Explore my repositories or reach out to discuss opportunities.
-
-</div>
