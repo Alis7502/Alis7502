@@ -72,4 +72,4 @@ Built interactive visualizations with Pandas and Matplotlib to analyze system pe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Sadeghi-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alisadeghi)
 [![Email](https://img.shields.io/badge/Email-alisadeghi7502@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisadeghi7502@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ali--sadeghi-181717?style=for-the-badge&logo=github)](https://github.com/alisadeghi)
+
