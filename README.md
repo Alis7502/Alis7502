@@ -1,64 +1,80 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile;Ali+Sadeghi+%7C+Control+Engineering+Student" alt="Typing SVG" />
-  <br />
-  <img src="https://img.shields.io/badge/Control%20Engineering-Student-007BFF?style=for-the-badge&logo=academic&logoColor=white" alt="Control Engineering Student">
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer">
-  <img src="https://img.shields.io/badge/Deep%20Learning-Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Enthusiast">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning Enthusiast">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hey there, I'm Ali Sadeghi
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <h3>
+    A Control Engineering Student passionate about AI-driven Fault Detection and Intelligent Systems.
+  </h3>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/alisadeghi7502/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </div>
 </div>
 
 ---
 
-## 👤 About Me
-I am a dedicated **Control Engineering student** with a strong foundation in **Machine Learning** and **Deep Learning**. My focus is on developing innovative solutions for **Fault Detection and Diagnosis**. Through academic projects, I integrate control systems with AI to enhance reliability and performance. Passionate about transitioning into the professional world, I aim to contribute to advancements in automation and intelligent systems.
+### 👨‍💻 About Me
+
+I am a **Control Engineering student** with a deep interest in the intersection of traditional control systems and modern artificial intelligence. My core focus is on leveraging **Machine Learning** and **Deep Learning** to build robust **Fault Detection and Diagnosis (FDD)** solutions. I am driven by the challenge of enhancing system reliability and creating smarter, self-aware automation.
+
+- 🔭 I’m currently working on developing advanced diagnostic models for industrial machinery.
+- 🌱 I’m constantly learning about Reinforcement Learning and its applications in control theory.
+- 👯 I’m looking to collaborate on open-source projects related to AI, IoT, and control systems.
+- 📫 How to reach me: **[alisadeghi7502](https://www.linkedin.com/in/alisadeghi7502/)** on LinkedIn or via **[email](mailto:your.email@example.com)**.
 
 ---
 
-## 🛠️ Skills
-<div align="center">
+### 🛠️ Tech Stack & Skills
 
-| **Programming Languages** | **ML/DL Frameworks** | **Data Science Tools** | **Domains** | **Core Competencies** |
-|----------------------------|----------------------|------------------------|-------------|-----------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | Machine Learning (Supervised/Unsupervised), Deep Learning (CNNs, RNNs), Fault Detection & Diagnosis, Data Analysis & Visualization | Problem-Solving, Algorithm Design |
+Here are some of the technologies I'm proficient in:
 
-</div>
-
----
-
-## 🚀 Featured Projects
-- **Fault Detection System**: A machine learning model built with Python and TensorFlow for anomaly detection in industrial systems, boosting diagnostic accuracy.  
-  *[View Repository](https://github.com/yourusername/fault-detection-system)*  
-- **Data Visualization Dashboard**: Interactive visualizations using Pandas and Matplotlib to analyze system performance metrics.  
-  *[View Repository](https://github.com/yourusername/data-visualization-dashboard)*  
+| **Languages** | **ML/DL Frameworks** | **Data Science & Tools** | **Core Competencies** |
+|---------------|----------------------|--------------------------|-----------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | Fault Detection & Diagnosis |
+| ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | Control Systems Design |
+| | ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white) | Data Analysis & Visualization |
+| | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Algorithm Design & Problem-Solving |
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=8B949E&icon_color=79C0FF" alt="GitHub Stats" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=8B949E" alt="Top Languages" width="320"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dracula&hide_border=true&background=0D1117&stroke=8B949E&ring=79C0FF&fire=DD2727&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="420"/>
-</div>
+### 🚀 My Projects
+
+Here are some of my key projects. More details can be found in their respective repositories.
+
+| Project Title | Description | Technologies Used | Link |
+|---------------|-------------|-------------------|------|
+| **Anomaly Detection in Industrial Systems** | A deep learning model that identifies and diagnoses faults in real-time sensor data, improving system uptime and diagnostic accuracy. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | **[View Repo](#)** |
+| **Performance Visualization Dashboard** | An interactive dashboard built to analyze and visualize key performance indicators (KPIs) from system logs, helping to identify performance bottlenecks. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | **[View Repo](#)** |
 
 ---
 
-## 📫 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/alisadeghi7502/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
+### 📊 My GitHub Stats & Activity
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-## 🌟 Personal Interests
-Beyond engineering and coding, I draw inspiration from the narrative artistry of films and the strategic depth of computer games, which sharpen my creative problem-solving skills.
+### 🎬 Personal Interests
 
----
+When I'm not coding or studying, I enjoy diving into the narrative depth of films and tackling the strategic challenges of computer games. These hobbies fuel my creativity and provide a fresh perspective on complex problem-solving.
 
-<div align="center">
-  <em>Thanks for visiting! I'm eager to collaborate on AI and control engineering projects. Explore my repositories or connect to discuss opportunities.</em>
-  <br />
-  <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/yourusername?style=social" alt="GitHub Stars">
-</div>
+<p align="center">
+  <em>Thank you for visiting my profile! I'm always open to connecting and discussing opportunities in AI and control engineering.</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile views" />
+</p>
