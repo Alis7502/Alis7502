@@ -69,8 +69,8 @@ Built interactive visualizations with Pandas and Matplotlib to analyze system pe
 
 <div align="center">
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alis7502&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alis7502&layout=compact&theme=radical)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alis7502&show_icons=true&theme=radical&cache_seconds=14400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alis7502&layout=compact&theme=radical&cache_seconds=14400)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alis7502/Alis7502/output/github-contribution-grid-snake-dark.svg">
