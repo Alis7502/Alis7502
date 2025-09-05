@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=1000&size=35&pause=4000&color=00D4FF&center=true&vCenter=true&width=835&lines=Hello%2C+I'm+Ali+Sadeghi;Control+Engineering+Student;AI+%26+Machine+Learning+Developer" alt="Typing SVG" />
-
-<br>
+<img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=600&size=32&duration=1000&pause=2500&color=00D4FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Ali+Sadeghi;Control+Engineering+Student;AI+%26+Machine+Learning+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 [![Control Engineering](https://img.shields.io/badge/Control_Engineering-Student-blue?style=for-the-badge&logo=azure-pipelines)](https://github.com/Alis7502)
 [![Python Developer](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python)](https://github.com/Alis7502)
