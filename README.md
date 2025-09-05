@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=1000&size=35&pause=4000&color=F7F7F7FF&center=true&vCenter=true&width=835&lines=Hello%2C+I'm+Ali+Sadeghi;Control+Engineering+Student;AI+%26+Machine+Learning+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=1000&size=35&pause=4000&color=00D4FF&center=true&vCenter=true&width=835&lines=Hello%2C+I'm+Ali+Sadeghi;Control+Engineering+Student;AI+%26+Machine+Learning+Developer" alt="Typing SVG" />
 
 <br>
 
