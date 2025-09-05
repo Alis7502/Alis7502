@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello, I'm Ali Sadeghi
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=1000&size=40&pause=2000&color=F7F7F7FF&center=true&vCenter=true&width=835&lines=Hello%2C+I'm+Ali+Sadeghi;Control+Engineering+Student;AI+%26+Machine+Learning+Developer" alt="Typing SVG" />
 
-### Control Engineering Student & AI Developer
+<br><br>
 
 [![Control Engineering](https://img.shields.io/badge/Control_Engineering-Student-blue?style=for-the-badge&logo=azure-pipelines)](https://github.com/Alis7502)
 [![Python Developer](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python)](https://github.com/Alis7502)
@@ -89,4 +89,5 @@ Built interactive visualizations with Pandas and Matplotlib to analyze system pe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Sadeghi-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alisadeghi7502)
 [![Email](https://img.shields.io/badge/Email-alisadeghi7502@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisadeghi7502@gmail.com)
+
 </div>
